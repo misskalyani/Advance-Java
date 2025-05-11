@@ -1,0 +1,17 @@
+
+
+Set B
+	a) Write a program to calculate the sum and average of an array of 1000 integers (generated randomly) using 10 threads. Each thread calculates the sum of 100 integers. 
+	Use these values to calculate average. [Use join method ].
+	b) Write a program for a simple search engine. Accept a string to be searched. Search for the string in all text files in the current folder. Use a separate thread for each file. The 
+	result should display the filename, line number where the string is found.
+	c) Write a program that implements a multi-thread application that has three threads. First thread generates random integer every 1 second and if the value is even, second 
+	thread computes the square of the number and prints. If the value is odd, the third thread will print the value of cube of the number.
+
+Set C
+	a) Write a program that simulates a traffic light. The program lets the user select one of three lights: red, yellow, or green with radio buttons. On selecting a button, an 
+	appropriate message with “stop” or “ready” or “go”should appear above the buttons in a selected color. Initially there is no message shown.
+	b) Write a program to create a thread for moving a ball inside a panel vertically. The ball should be created when the user clicks on the start button.
+	c) Using the concepts of thread synchronization create two threads as sender and receiver. Sender thread will set a message to the receiver thread that will display the message on console. The sender 
+	thread accepts the input message from console.Continue this process until sender sets the message as “Good Bye Corona”.
+
